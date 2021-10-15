@@ -1,6 +1,8 @@
-# InterFi's Echelon Auditing Methodology
+# Smart Contract Audits By InterFi Network
 InterFi provides blockchain security and assessment services. In this repository, we'll upload audited smart contracts, and projects. To request a smart contract audit, contact https://t.me/interfiaudits or hello@interfi.network
 
+
+# InterFi's Echelon Auditing Methodology
 
 The aim of InterFi’s “Echelon” standard is to analyze the smart contract and identify the vulnerabilities and the hacks in the smart contract. Mentioned are the steps used by ECHELON-1 to assess the smart contract:
 
@@ -21,7 +23,7 @@ Symbolic execution, which is analysing a program to determine what inputs causes
 4.	Specific, itemized, actionable recommendations to help you take steps to secure your smart contracts.
 
 
-# Legal Disclaimer
+# Important Disclaimer
 
 InterFi Network provides contract auditing and project verification services for blockchain projects. The purpose of the audit is to analyse the on-chain smart contract source code, and to provide basic overview of the project. This report should not be transmitted, disclosed, referred to, or relied upon by any person for any purposes without InterFi’s prior written consent.
 
